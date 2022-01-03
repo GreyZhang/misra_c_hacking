@@ -3,3 +3,4 @@
 MISRA C是安全相关的嵌入式软件设计中常用的一个编码规范，汽车电子里面的AUTOSAR的规范也是要求满足MISRA C 2004的标准的。之前多少知道一部分MISRA C的规则要求，工作之中可能拿不出太多时间来研究了，那就把这部分的学习安排在我每天的学习内容里面吧！
 ** 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/122292084][972_MISRA C 2004规范解读1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122295687][973_MISRA C规范学习笔记2_编程语言与编码环境]]
