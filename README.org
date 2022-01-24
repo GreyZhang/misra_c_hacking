@@ -26,3 +26,4 @@ MISRA C是安全相关的嵌入式软件设计中常用的一个编码规范，�
 - [[https://greyzhang.blog.csdn.net/article/details/122647975][1074_MISRAC_C规范学习_2004_Rule_4.2]]
 - [[https://greyzhang.blog.csdn.net/article/details/122648434][1075_MISRA_C规范学习_2004_Rule_5.1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122676299][1082_MISRA_C规范学习_2004_Rule_5.2]]
+- [[https://greyzhang.blog.csdn.net/article/details/122676833][1083_MISRA_C规范学习_2004_Rule_5.3]]
